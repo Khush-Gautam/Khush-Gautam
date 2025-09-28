@@ -45,7 +45,7 @@ Here, I level up my coding skills and complete digital quests like a true hero. 
 - 🐦 Twitter: [@KhushG](https://twitter.com/KhushG)  
 - 💼 LinkedIn: [Khush Gautam](https://www.linkedin.com/in/khush-gautam/)  
 
-![Footer GIF](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+![Footer GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTlscnhrYTZhdGY5NDQ5cHVoMWdrNWRxMTBiNDU3NnBtNnduaXpkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8bxgTkgQqjQBEobJlW/giphy.gif)
 
 ---
 
