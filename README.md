@@ -1,6 +1,6 @@
-# 🦇 Khush Gautam’s Batcave
+# 🦇 Khush Gautam's Batcave
 
-![Batman GIF](https://media.giphy.com/media/26xBzuB0ua2ovKzCM/giphy.gif)
+![Batman GIF](https://giphy.com/gifs/batman-animated-animated-batman-3o7aD3fF2z5Xq3N0Xy)
 
 Welcome to my **GitHub Batcave**!  
 Here, I level up my coding skills and complete digital quests like a true hero. ⚡🦇
@@ -9,8 +9,8 @@ Here, I level up my coding skills and complete digital quests like a true hero. 
 
 ## 🎮 Player Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Khush-Gautam&show_icons=true&theme=dark)](https://github.com/Khush-Gautam)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khush-Gautam&layout=compact&theme=dark)](https://github.com/Khush-Gautam)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khush-Gautam&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khush-Gautam&layout=compact&theme=radical)
 
 ---
 
@@ -44,6 +44,8 @@ Here, I level up my coding skills and complete digital quests like a true hero. 
 - 💌 Email: khush@example.com  
 - 🐦 Twitter: [@KhushG](https://twitter.com/KhushG)  
 - 💼 LinkedIn: [Khush Gautam](https://www.linkedin.com/in/khush-gautam/)  
+
+![Footer GIF](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
 
 ---
 
