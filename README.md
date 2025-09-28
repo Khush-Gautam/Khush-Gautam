@@ -1,37 +1,50 @@
-# 🎮 DevClub Bootcamp 2
+# 🦇 Khush Gautam’s Batcave
 
-[![GitHub stars](https://img.shields.io/github/stars/Khush-Gautam/devclub-bootcamp-2?style=social)](https://github.com/Khush-Gautam/devclub-bootcamp-2/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Khush-Gautam/devclub-bootcamp-2?style=social)](https://github.com/Khush-Gautam/devclub-bootcamp-2/network/members)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![Batman GIF](https://media.giphy.com/media/26xBzuB0ua2ovKzCM/giphy.gif)
 
----
-
-## 🌟 Project Level: Beginner → Intermediate
-
-Welcome to **DevClub Bootcamp 2**! This project is your **adventure arena** to learn, code, and level up your programming skills. Think of it as a game where **you unlock achievements with every feature you implement**.  
+Welcome to my **GitHub Batcave**!  
+Here, I level up my coding skills and complete digital quests like a true hero. ⚡🦇
 
 ---
 
-## 🏆 Features & Achievements
+## 🎮 Player Stats
 
-- 🚀 **Responsive HTML pages** – mobile & desktop ready  
-- 🎨 **Stylized and gamified UI** – fun colors, badges, and visuals  
-- ⚡ **Interactive elements** – buttons, forms, and hover effects  
-- 🧩 **Modular & reusable code** – easy to upgrade & maintain  
-- 📝 **Comprehensive documentation** – track progress like XP  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Khush-Gautam&show_icons=true&theme=dark)](https://github.com/Khush-Gautam)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khush-Gautam&layout=compact&theme=dark)](https://github.com/Khush-Gautam)
 
 ---
 
-## ⚙️ Technologies & Tools
+## 🏆 Achievements / XP
 
-- **Languages:** HTML5, CSS3, JavaScript  
-- **Tools:** Git, GitHub, VS Code  
-- **Frameworks:** None (vanilla JS & CSS for mastery)  
+- 🦸 Completed **DevClub Bootcamp 2** – Level 5  
+- ⚡ Created gamified UI and interactive pages  
+- 💻 Explored HTML, CSS, JS, and Git  
+- 🔗 Linked projects to real-world applications
+
+![XP Bar](https://progress-bar.dev/70/)
 
 ---
 
-## 🕹 Installation / How to Play
+## 🕹 Featured Projects
 
-1. Clone the repository:  
-```bash
-git clone https://github.com/Khush-Gautam/devclub-bootcamp-2.git
+### 1️⃣ Pixel Battle Arena
+![Project GIF](https://media.giphy.com/media/3o7aCSPqXE0Jq3l2p6/giphy.gif)  
+**Description:** Avatars battle using speed & strength mechanics.  
+**Link:** [Pixel Battle Arena](https://github.com/Khush-Gautam/pixel-battle-arena)
+
+### 2️⃣ Smart Attendance App
+![Project Screenshot](https://via.placeholder.com/500x200.png?text=Smart+Attendance+App)  
+**Description:** AI-powered attendance tracker.  
+**Link:** [SCAAP](https://github.com/Khush-Gautam/scaap)
+
+---
+
+## 🌐 Connect with Me
+
+- 💌 Email: khush@example.com  
+- 🐦 Twitter: [@KhushG](https://twitter.com/KhushG)  
+- 💼 LinkedIn: [Khush Gautam](https://www.linkedin.com/in/khush-gautam/)  
+
+---
+
+✨ **Level up your coding skills, fight bugs like a hero, and conquer the digital world!** 🦇
