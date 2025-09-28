@@ -1,6 +1,6 @@
 # 🦇 Khush Gautam's Batcave
 
-![Batman GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTlscnhrYTZhdGY5NDQ5cHVoMWdrNWRxMTBiNDU3NnBtNnduaXpkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8bxgTkgQqjQBEobJlW/giphy.gif)
+![Batman GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3UzbGFyd293OTFpeTZwY3p6eGFxbHhoYWdocGZqdGM1bDRzdnd5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EMpPEre2PqFy8GkOZE/giphy.gif)
 
 Welcome to my **GitHub Batcave**!  
 Here, I level up my coding skills and complete digital quests like a true hero. ⚡🦇
